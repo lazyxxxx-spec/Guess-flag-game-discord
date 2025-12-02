@@ -20,7 +20,7 @@ const client = new Client({
     ] 
 });
 
-const BOT_TOKEN = 'MTQ0NDgxMDk2NDg3MTU0NDg2Mw.GeHo16.Q4AclyyWlOzN15T87-D7i6XykIUcG8qeHIE5l4'; 
+const BOT_TOKEN = 'YOuR BOT TOKEN'; 
 
 // --- 1. The Flag Data (Now split by difficulty) ---
 const FLAG_DATA = {
